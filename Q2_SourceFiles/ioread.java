@@ -124,7 +124,7 @@ public class ioread {
 				
 			public void Girlscan() throws FileNotFoundException
 			{
-				fr = new FileReader("Input_girl.txt");
+				fr = new FileReader("Input_Girl.txt");
 				br = new BufferedReader(fr);
 				String s;
 				int it;
